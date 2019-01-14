@@ -21,7 +21,7 @@
 
 // Enable debug prints
 // #define MY_DEBUG
-
+#include <Arduino.h>
 #include <MySensors.h>
 
 #define CHILD_ID 3
